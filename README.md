@@ -14,3 +14,4 @@ Only tested on Zsh. They should work on Bash too.
 | [Git](./scripts/git.sh) |
 | [AWS CLI](./scripts/awscli.sh) |
 | [Python](./scripts/python.sh) |
+| [Docker DNS Names](./scripts/docker-dns-names.sh) |
